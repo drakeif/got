@@ -1,0 +1,609 @@
+.version.index /* version checker */
+{
+	color: #00000C;
+	background-color: #D3B31E;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1863px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu75
+{
+	width: 0.01px;
+	padding-bottom: 56px;
+	margin-right: -10000px;
+	margin-top: -36px;
+	margin-left: -100px;
+}
+
+#u75
+{
+	z-index: 65;
+	height: 56px;
+	background-color: #000000;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+	position: fixed;
+	top: 0px;
+}
+
+#u75-bw
+{
+	z-index: 65;
+}
+
+#u76-4
+{
+	z-index: 66;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 7px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: -137px;
+}
+
+#u79-4
+{
+	z-index: 70;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 5px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: -47px;
+}
+
+#u79-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px -47px;
+}
+
+#u80-4
+{
+	z-index: 74;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: 43px;
+}
+
+#u80-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px 43px;
+}
+
+#u81-4
+{
+	z-index: 78;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: 133px;
+}
+
+#u81-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px 133px;
+}
+
+#u82-4
+{
+	z-index: 82;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 10px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: 223px;
+}
+
+#u82-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px 223px;
+}
+
+#u86
+{
+	z-index: 94;
+	width: 285px;
+	height: 44px;
+	position: fixed;
+	top: 6px;
+	left: 50%;
+	margin-left: -480px;
+	background: transparent url("../images/logo_game_of_thrones.png") no-repeat center center;
+	background-size: cover;
+}
+
+#pu113-6
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 90px;
+	margin-left: 20px;
+}
+
+#u113-6
+{
+	z-index: 3;
+	width: 542px;
+	min-height: 125px;
+	background-color: transparent;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u113-2
+{
+	font-size: 55px;
+	line-height: 66px;
+}
+
+#u113-4
+{
+	font-size: 34px;
+	line-height: 41px;
+}
+
+#pu119
+{
+	width: 0.01px;
+	margin-top: 35px;
+}
+
+#u119
+{
+	z-index: 9;
+	width: 713px;
+	height: 473px;
+	background-color: #000000;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u159-4
+{
+	z-index: 60;
+	width: 675px;
+	min-height: 44px;
+	border-style: solid;
+	border-color: #E6E6E6;
+	background-color: transparent;
+	font-size: 20px;
+	line-height: 24px;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 19px;
+	border-width: 0px 0px 1px;
+}
+
+#u871
+{
+	z-index: 64;
+	width: 675px;
+	min-height: 380px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 19px;
+}
+
+#pu123
+{
+	width: 0.01px;
+	margin-top: 37px;
+}
+
+#u123
+{
+	z-index: 10;
+	width: 713px;
+	height: 248px;
+	background-color: #C8C8C8;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u125-4
+{
+	z-index: 11;
+	width: 676px;
+	min-height: 44px;
+	border-style: solid;
+	border-color: #434343;
+	background-color: transparent;
+	font-size: 20px;
+	line-height: 24px;
+	color: #434343;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 19px;
+	border-width: 0px 0px 1px;
+}
+
+#u128
+{
+	z-index: 15;
+	width: 713px;
+	min-height: 168px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 105px;
+}
+
+#pu130
+{
+	width: 0.01px;
+	margin-top: 12px;
+}
+
+#u130
+{
+	z-index: 16;
+	width: 713px;
+	height: 799px;
+	background-color: #000000;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u131-7
+{
+	z-index: 17;
+	width: 676px;
+	min-height: 65px;
+	border-style: solid;
+	border-color: #E6E6FF;
+	background-color: transparent;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 19px;
+	border-width: 0px 0px 1px;
+}
+
+#u131-2
+{
+	font-size: 20px;
+	line-height: 24px;
+}
+
+#u131-4
+{
+	font-size: 14px;
+}
+
+#u131-5
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+#u133
+{
+	z-index: 24;
+	width: 342px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E6E6E6;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+	left: 19px;
+}
+
+#u139-4
+{
+	z-index: 26;
+	width: 317px;
+	min-height: 200px;
+	background-color: transparent;
+	text-align: justify;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 112px;
+	left: 378px;
+}
+
+#u141
+{
+	z-index: 30;
+	width: 674px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #E6E6E6;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 384px;
+	left: 19px;
+}
+
+#u141_img
+{
+	margin: -1px;
+}
+
+#u147-7
+{
+	z-index: 32;
+	width: 672px;
+	min-height: 147px;
+	background-color: transparent;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 617px;
+	left: 19px;
+}
+
+#u147-2
+{
+	text-align: justify;
+	font-weight: 300;
+}
+
+#u147-4
+{
+	text-align: center;
+	font-weight: 400;
+}
+
+#u147-3
+{
+	text-decoration: underline;
+}
+
+#u147-5
+{
+	font-weight: 300;
+}
+
+#u83-4
+{
+	z-index: 86;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 15px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: 313px;
+}
+
+#u83-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px 313px;
+}
+
+#u160
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 100px;
+	position: fixed;
+	top: 166px;
+	left: 860px;
+}
+
+#u84-4
+{
+	z-index: 90;
+	width: 77px;
+	min-height: 22px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-indent: 12px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: fixed;
+	top: 19px;
+	left: 50%;
+	margin-left: 403px;
+}
+
+#u84-4:hover
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 77px;
+	margin: 0px 0px 0px 403px;
+}
+
+#u79-4:hover p,#u80-4:hover p,#u81-4:hover p,#u82-4:hover p,#u83-4:hover p,#u84-4:hover p
+{
+	color: #0071BC;
+	visibility: inherit;
+}
+
+#u156-7
+{
+	z-index: 39;
+	width: 319px;
+	min-height: 72px;
+	background-color: transparent;
+	text-align: left;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-bottom: -104px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 20px;
+}
+
+#u156
+{
+	text-indent: 37px;
+}
+
+#u157-7
+{
+	z-index: 46;
+	width: 150px;
+	min-height: 72px;
+	background-color: transparent;
+	text-align: left;
+	color: #E6E6E6;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-bottom: -104px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 455px;
+}
+
+#u157
+{
+	text-indent: 26px;
+}
+
+#u158-7
+{
+	z-index: 53;
+	width: 220px;
+	min-height: 72px;
+	background-color: transparent;
+	color: #E6E6E6;
+	font-size: 13px;
+	text-align: left;
+	line-height: 16px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-bottom: -104px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 720px;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/king-s-landing-concept-art-game-of-thrones-21954054-2048-1369.jpg") no-repeat left top fixed;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 104px;
+}
+
+.verticalspacer
+{
+	min-height: 19px;
+}
+
